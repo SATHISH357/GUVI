@@ -17,7 +17,7 @@ n=n\10;
 }
 int temp=n;
 int nnn=1,nn
-for(int i=0;i<10;i++O)
+for(int i=0;i<10;i++)
 {
 nnn=nnn*s[i];
 }
