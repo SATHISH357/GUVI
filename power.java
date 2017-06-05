@@ -10,7 +10,7 @@ int n=sc.nextInt();
 int sum=1;
 if(n==0)
 {
-System.out.println(0);
+System.out.println("Enter the vail num");
 }
 else
 {
