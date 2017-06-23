@@ -9,7 +9,7 @@ int num=sc.nextInt();
 String s=String.valueOf(num);
 num=num+1;
 String s1=String.valueOf(num);
-if(s.length()>s1.length())
+if(s1.length()>s.length())
 {
 System.out.println("not possible");
 }
